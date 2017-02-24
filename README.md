@@ -1,2 +1,2 @@
 # Wyncode
-hello
+puts "Hello World"
