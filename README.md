@@ -1,2 +1,1 @@
-# Wyncode
 puts "Hello World"
